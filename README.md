@@ -1,8 +1,16 @@
 Experimental implementations of neural networks using causal-convolutions.
+All the neural network is built upon Gluon API of Apache MxNet.
 
-# Networks
+# Implementations
 
 01. Gated PixelCNN
+02. Conditional PixelCNN
+03. Dilated Convolution
+
+# ToDo
+* Logistic Mixture
+* WaveNet
+* VQVAE
 
 # References
 
