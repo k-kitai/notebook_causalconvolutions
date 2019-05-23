@@ -1,5 +1,5 @@
 Experimental implementations of neural networks using causal-convolutions.
-All the neural network is built upon Gluon API of Apache MxNet.
+All the neural network is built upon Gluon API of [Apache MXNet](https://mxnet.incubator.apache.org).
 
 # Implementations
 
@@ -8,9 +8,10 @@ All the neural network is built upon Gluon API of Apache MxNet.
 03. Dilated Convolution
 
 # ToDo
+* Caching hidden layers for fast generation
 * Logistic Mixture
+* VQ-VAE
 * WaveNet
-* VQVAE
 
 # References
 
